@@ -1,4 +1,5 @@
 # 잽스농장 (생존 농사 게임)
+![image](https://github.com/jaebins/JabsFarm/assets/70888275/dda09a6b-fe30-4499-b55d-0da92a7d0cbc)
 ### 플레이 영상
 <a href="https://youtu.be/gRbp3Yo6wz0">![js](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
 ### 플랫폼
